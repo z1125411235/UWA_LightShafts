@@ -1,0 +1,8 @@
+版本:Unity 2017.4.27f1 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5b65f8c9d7f10a201ff96fa6?fbclid=IwAR2tg8daNRVde9ErWsIgMdQsVgeDyVrwbR8PFjCf89HENxQKxDjYT1n0DHQ
+
+官方Github網址__https://github.com/robertcupisz/LightShafts
+
+本人Github網址__https://github.com/z1125411235/UWA_LightShafts
+
